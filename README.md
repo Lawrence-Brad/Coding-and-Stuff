@@ -1,2 +1,1 @@
-# CodingAndStuff
-Pages to share
+# Coding-and-Stuff
