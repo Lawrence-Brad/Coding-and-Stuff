@@ -4,9 +4,11 @@ If you are ever annoyed with VS Code's suggestions while you are typing, you can
 The official article for these settings can be found here: https://code.visualstudio.com/docs/editor/intellisense#_settings
 
 To open your settings go to View > Command Palette
+
 ![Command Palette](../Images/VSCodeSuggestions/1-CommandPalette.png)
 
 Then at the command prompt that appears type: "Preferences: Open Settings (JSON)" You'll probably have to select the correct one from the drop down list.
+
 ![Preferences JSON](../Images/VSCodeSuggestions/2-PreferencesJSON.png)
 
 In the JSON settings file, paste in the following so your file looks like:
@@ -23,6 +25,7 @@ In the JSON settings file, paste in the following so your file looks like:
 ```
 
 When you are done it should look like this:
+
 ![settings.json file](../Images/VSCodeSuggestions/3-settings.jsonFile.png)
 
 Then after saving, those suggestions will go away.
