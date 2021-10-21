@@ -60,6 +60,7 @@ The parameter hints will look something like this:
 
 ### VS Code Cheatsheets for your OS
 Use the links below to get an official cheat sheet of the keyboard shortcuts for your OS.
+
 | OS | Link |
 |--|--|
 | Windows | [https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) |
