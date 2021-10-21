@@ -1,7 +1,7 @@
 # Controlling VS Code's Suggestions While Typing
 
 If you are ever annoyed with VS Code's suggestions while you are typing, you can control those with settings.  There are settings for almost everything in VS Code.
-The official article for these settings can be found here: https://code.visualstudio.com/docs/editor/intellisense#_settings
+The official article for these settings can be found here: [https://code.visualstudio.com/docs/editor/intellisense#_settings](https://code.visualstudio.com/docs/editor/intellisense#_settings)
 
 To open your settings go to View > Command Palette
 
