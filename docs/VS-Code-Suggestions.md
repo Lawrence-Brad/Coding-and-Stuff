@@ -5,11 +5,11 @@ The official article for these settings can be found here: [https://code.visuals
 
 To open your settings go to View > Command Palette
 
-![Command Palette](/docs/assets/VSCodeSuggestions/1-CommandPalette.png)
+![Command Palette](/coding-and-stuff/assets/VSCodeSuggestions/1-CommandPalette.png)
 
 Then at the command prompt that appears type: "Preferences: Open Settings (JSON)" You'll probably have to select the correct one from the drop down list.
 
-![Preferences JSON](/docs/assets/VSCodeSuggestions/2-PreferencesJSON.png)
+![Preferences JSON](/coding-and-stuff/assets/VSCodeSuggestions/2-PreferencesJSON.png)
 
 In the JSON settings file, paste in the following so your file looks like:
 ```json
@@ -26,7 +26,7 @@ In the JSON settings file, paste in the following so your file looks like:
 
 When you are done it should look like this:
 
-![settings.json file](/docs/assets/VSCodeSuggestions/3-settings.jsonFile.png)
+![settings.json file](/coding-and-stuff/assets/VSCodeSuggestions/3-settings.jsonFile.png)
 
 Then after saving, those suggestions will go away.
 If you ever want those suggestions back you can come back to the settings delete those lines so your settings file is an empty JSON object:
