@@ -14,13 +14,13 @@ Then at the command prompt that appears type: "Preferences: Open Settings (JSON)
 In the JSON settings file, paste in the following so your file looks like:
 ```json
 {
-    // Controls if quick suggestions should show up while typing
-    "editor.quickSuggestions": {
-        "other": false,
-        "comments": false,
-        "strings": false
-    },
-    "editor.parameterHints.enabled": false
+    // Controls if quick suggestions should show up while typing
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.parameterHints.enabled": false
 }
 ```
 
