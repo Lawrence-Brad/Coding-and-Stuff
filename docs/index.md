@@ -1,4 +1,4 @@
 # Coding and Stuff
 
 Table of Contents
-- [VS Code Suggestions](VS%20Code%20Suggestions.md)
+- [VS Code Suggestions](VS-Code-Suggestions.md)
